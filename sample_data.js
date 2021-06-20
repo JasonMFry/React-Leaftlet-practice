@@ -18,7 +18,7 @@ export const sampleData = [
     image_file_name: "1dfdeab8-d849-4b04-a84d-bce508a9709c.jpg",
     image_content_type: "image/png",
     image_file_size: 1841240,
-    image_updated_at: "2017-05-17 06:00:36 UTC"
+    image_updated_at: "2017-05-17 06:00:36 UTC",
   },
   {
     id: 16257,
@@ -39,7 +39,7 @@ export const sampleData = [
     image_file_name: "7847c821-eefb-4079-84c6-208792d5af79.jpg",
     image_content_type: "image/jpeg",
     image_file_size: 378197,
-    image_updated_at: "2017-05-17 06:00:33 UTC"
+    image_updated_at: "2017-05-17 06:00:33 UTC",
   },
   {
     id: 16264,
@@ -60,7 +60,7 @@ export const sampleData = [
     image_file_name: "2069ce2d-c57f-4099-88b1-bbe9bcd3cd38.jpg",
     image_content_type: "image/png",
     image_file_size: 1841240,
-    image_updated_at: "2017-05-17 06:00:46 UTC"
+    image_updated_at: "2017-05-17 06:00:46 UTC",
   },
   {
     id: 16263,
@@ -81,7 +81,7 @@ export const sampleData = [
     image_content_type: "image/png",
     image_file_size: 1841240,
     image_updated_at: "2017-05-17 06:00:44 UTC",
-    uuid: "667d36e5-27be-4cd4-b7d3-e1de947692cd"
+    uuid: "667d36e5-27be-4cd4-b7d3-e1de947692cd",
   },
   {
     id: 16262,
@@ -102,7 +102,7 @@ export const sampleData = [
     image_updated_at: "2017-05-17 06:00:42 UTC",
     image_preview:
       "//d3dgy5wiit1ici.cloudfront.net/pin_images/images/preview/ba543375-f99f-4eda-93e0-1987cf9d7a4c.jpg?1495000842",
-    uuid: "3f3ae697-ac41-4976-bd22-ce55fdf28447"
+    uuid: "3f3ae697-ac41-4976-bd22-ce55fdf28447",
   },
   {
     id: 16261,
@@ -123,7 +123,7 @@ export const sampleData = [
     image_file_size: 1841240,
     image_updated_at: "2017-05-17 06:00:40 UTC",
     rotation: 90.0,
-    uuid: "e7c3a199-50e3-4d2f-b62a-fd796b46d97b"
+    uuid: "e7c3a199-50e3-4d2f-b62a-fd796b46d97b",
   },
   {
     id: 16260,
@@ -145,7 +145,8 @@ export const sampleData = [
     image_content_type: "image/png",
     image_file_size: 1841240,
     image_updated_at: "2017-05-17 06:00:38 UTC",
-    sharing_token: "630c24acd48a4c0af7420c54cf7b40a5a259f6410fbc34bb807a245d43bb624e"
+    sharing_token:
+      "630c24acd48a4c0af7420c54cf7b40a5a259f6410fbc34bb807a245d43bb624e",
   },
   {
     id: 16258,
@@ -166,7 +167,7 @@ export const sampleData = [
     image_file_name: "2df56474-c099-4e0f-af04-609e73f39ce8.jpg",
     image_content_type: "image/jpeg",
     image_file_size: 378197,
-    image_updated_at: "2017-05-17 06:00:34 UTC"
+    image_updated_at: "2017-05-17 06:00:34 UTC",
   },
   {
     id: 16256,
@@ -183,13 +184,12 @@ export const sampleData = [
     description: null,
     image_type: "flat",
     rotation: 0.0,
-    url:
-      "https://constructive-production.s3-us-west-1.amazonaws.com/photos/9b001ff1-c059-4169-b329-235b63da9e8a.jpg",
+    url: "https://constructive-production.s3-us-west-1.amazonaws.com/photos/9b001ff1-c059-4169-b329-235b63da9e8a.jpg",
     uuid: "0410f798-3418-4dc1-820f-67554df76c3d",
     image_file_name: "9b001ff1-c059-4169-b329-235b63da9e8a.jpg",
     image_content_type: "image/jpeg",
     image_file_size: 378197,
-    image_updated_at: "2017-05-17 06:00:31 UTC"
+    image_updated_at: "2017-05-17 06:00:31 UTC",
   },
   {
     id: 16255,
@@ -210,6 +210,6 @@ export const sampleData = [
     image_file_name: "4cb9469f-c48d-4556-8b0a-e3e2dcef2a5b.jpg",
     image_content_type: "image/jpeg",
     image_file_size: 378197,
-    image_updated_at: "2017-05-17 06:00:29 UTC"
-  }
+    image_updated_at: "2017-05-17 06:00:29 UTC",
+  },
 ];
